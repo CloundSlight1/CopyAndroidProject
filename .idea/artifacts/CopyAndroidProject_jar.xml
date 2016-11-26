@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CopyAndroidProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CopyAndroidProject_jar</output-path>
+    <root id="archive" name="CopyAndroidProject.jar">
+      <element id="module-output" name="CopyAndroidProject" />
+    </root>
+  </artifact>
+</component>
